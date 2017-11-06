@@ -2,7 +2,10 @@
 ```
 npm install robot-tuling -g
 ```
-
+# Usage
+```
+$ robot
+```
 # 示例
 ![](https://i.loli.net/2017/11/06/5a001a7141f22.png)
 
