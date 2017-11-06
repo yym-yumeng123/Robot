@@ -1,3 +1,10 @@
+# Knowledge
+- 网络请求(request)
+- 使用第3方api
+- 使用node官方模块进行命令行交互
+- 结合图灵api造一个可玩的机器人
+- 开源成果, npm上发布机器人
+
 # Robot安装
 ```
 npm install robot-tuling -g
